@@ -1,0 +1,371 @@
+{
+  "name": "王裕祥",
+  "romanized_name": "Wang Yuxiang",
+  "duration_seconds": 240,
+  "shots": 59,
+  "independent_visual_sources": 27,
+  "live_action_video_seconds": 136.00000000000006,
+  "narration": "User supplied recording, original speed and speech content.",
+  "music": {
+    "title": "A Little Story",
+    "artist": "Valentin",
+    "album": "My View",
+    "url": "https://raw.githubusercontent.com/xiaoheizi0802999/smart-china-trip-planner/da6cacb69603addce693081054be9e3e307f4cfb/public/audio/a-little-story.mp3",
+    "sha256": "8221350a023047771ce1f07821929cffc598ee099335271768bd36a54c207550",
+    "processing": "instrumental background bed, five-second crossfade at loop, equalization, narration sidechain ducking, two-second fade-in and five-second fade-out",
+    "license_claim": "No license grant is asserted by the source mirror."
+  },
+  "visual_sources": [
+    {
+      "file": "china_classroom.jpg",
+      "url": "https://raw.githubusercontent.com/tandf/iGEM-2018-Tsinghua-A-website/6c427d632016a6760f9a7f7c3cd4c28ec1295943/images/lecture.jpg",
+      "bytes": 3277059,
+      "repo": "tandf/iGEM-2018-Tsinghua-A-website",
+      "sha": "6c427d632016a6760f9a7f7c3cd4c28ec1295943",
+      "original_path": "images/lecture.jpg",
+      "sha256": "344cd19bf41f8e6a467c61f82d46d20359eb14dc30b44401b6bb5247184b8cc4",
+      "used_for": [
+        "中国青年认真学习交流",
+        "相互尊重、共同学习"
+      ]
+    },
+    {
+      "file": "china_company1.png",
+      "url": "https://raw.githubusercontent.com/rhymecame/hongrui_project/32fba97aba5cefadb06ae5a907560f688219f8a4/src/images/company1.png",
+      "bytes": 919624,
+      "repo": "rhymecame/hongrui_project",
+      "sha": "32fba97aba5cefadb06ae5a907560f688219f8a4",
+      "original_path": "src/images/company1.png",
+      "sha256": "7c69b69ef178dab5f929b47c77f614ee1562d93f05129e4dd2d0d62f6705842a",
+      "used_for": [
+        "项目管理与团队讨论"
+      ]
+    },
+    {
+      "file": "china_company2.png",
+      "url": "https://raw.githubusercontent.com/rhymecame/hongrui_project/32fba97aba5cefadb06ae5a907560f688219f8a4/src/images/company2.png",
+      "bytes": 925468,
+      "repo": "rhymecame/hongrui_project",
+      "sha": "32fba97aba5cefadb06ae5a907560f688219f8a4",
+      "original_path": "src/images/company2.png",
+      "sha256": "f3d5dfdd3bbc3add36ef081b646294f081f46ba4dab440806699d71cc25e303b",
+      "used_for": [
+        "中国专业团队的沟通与倾听"
+      ]
+    },
+    {
+      "file": "china_company3.png",
+      "url": "https://raw.githubusercontent.com/rhymecame/hongrui_project/32fba97aba5cefadb06ae5a907560f688219f8a4/src/images/company3.png",
+      "bytes": 856839,
+      "repo": "rhymecame/hongrui_project",
+      "sha": "32fba97aba5cefadb06ae5a907560f688219f8a4",
+      "original_path": "src/images/company3.png",
+      "sha256": "d7c3ca2eb48ac801f7c40df6222095e1c66ce90ca67be6e671e9c3713ea4fab9",
+      "used_for": [
+        "团队面对面协作"
+      ]
+    },
+    {
+      "file": "china_lecture.png",
+      "url": "https://raw.githubusercontent.com/tandf/iGEM-2018-Tsinghua-A-website/6c427d632016a6760f9a7f7c3cd4c28ec1295943/images/glowingbacterialecture1.png",
+      "bytes": 1005421,
+      "repo": "tandf/iGEM-2018-Tsinghua-A-website",
+      "sha": "6c427d632016a6760f9a7f7c3cd4c28ec1295943",
+      "original_path": "images/glowingbacterialecture1.png",
+      "sha256": "20cde1b923cabcf35ca8f3b1d8c968630b1976588c4ac4158b552b2b15561fc8",
+      "used_for": [
+        "中国青年分享知识、承担责任",
+        "中国青年认真负责的精神"
+      ]
+    },
+    {
+      "file": "china_street_life.mp4",
+      "url": "https://raw.githubusercontent.com/JLDAUSSY/Chine2026/610beae4f236d0571b000063d1f5e5b987febc5a/videos/scenesderue.mp4",
+      "bytes": 22777381,
+      "repo": "JLDAUSSY/Chine2026",
+      "sha": "610beae4f236d0571b000063d1f5e5b987febc5a",
+      "original_path": "videos/scenesderue.mp4",
+      "sha256": "8b045a06212d7f69c58cb8fd0b4e74031c69a60af2e011ccbf34760737434159",
+      "used_for": [
+        "尊重中国传统与生活文化",
+        "中国地方历史与文化特征",
+        "以技能成长"
+      ]
+    },
+    {
+      "file": "china_travel.mp4",
+      "url": "https://raw.githubusercontent.com/odivpds/SkyVoyaTravel/f6d871d23f7aca68208404171d5a94610e53252e/assets/china.mp4",
+      "repo": "odivpds/SkyVoyaTravel",
+      "original_path": "assets/china.mp4",
+      "bytes": 8242275,
+      "sha256": "65c429f2f2284ef238d7b4f0cdf816410fbf65acaa2338a6ff477209d9b203fe",
+      "used_for": [
+        "长城与中国文化",
+        "中国文化遗产的开放交流",
+        "共同欣赏文化遗产"
+      ]
+    },
+    {
+      "file": "chinese_calligraphy.jpg",
+      "url": "https://raw.githubusercontent.com/coolleave/museum/2e5a3db264a31c06f87891699015aac0753fc6ca/images/%E5%B7%A6%E4%BE%A7%E5%AF%BC%E8%88%AA/%E6%B3%95%E4%B9%A6.jpg",
+      "bytes": 117656,
+      "repo": "coolleave/museum",
+      "sha": "2e5a3db264a31c06f87891699015aac0753fc6ca",
+      "original_path": "images/左侧导航/法书.jpg",
+      "sha256": "8e7db8279b862ed4bf525bbdc27a8017c081effa14a81915a705f0adbdbaa02a",
+      "used_for": [
+        "中国书法作品"
+      ]
+    },
+    {
+      "file": "craft_img_index_jl3.jpg",
+      "url": "https://raw.githubusercontent.com/zhouqi-eng/syzzy/d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d/img/index/jl3.jpg",
+      "bytes": 37665,
+      "repo": "zhouqi-eng/syzzy",
+      "sha": "d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d",
+      "original_path": "img/index/jl3.jpg",
+      "sha256": "eeb07a4c1fc23f7608726b91a6cc3ade6a920242a80203944ec18f2b7dafb658",
+      "used_for": [
+        "传授技艺、传递友谊"
+      ]
+    },
+    {
+      "file": "craft_img_index_rw1.jpg",
+      "url": "https://raw.githubusercontent.com/zhouqi-eng/syzzy/d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d/img/index/rw1.jpg",
+      "bytes": 45251,
+      "repo": "zhouqi-eng/syzzy",
+      "sha": "d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d",
+      "original_path": "img/index/rw1.jpg",
+      "sha256": "ee2f22b6b03af41c48a75d644d93c92d94bcfd6c7ca91664ad7bf45a03292c4e",
+      "used_for": [
+        "中国工匠的踏实与专注"
+      ]
+    },
+    {
+      "file": "craft_img_index_rw2.jpg",
+      "url": "https://raw.githubusercontent.com/zhouqi-eng/syzzy/d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d/img/index/rw2.jpg",
+      "bytes": 35180,
+      "repo": "zhouqi-eng/syzzy",
+      "sha": "d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d",
+      "original_path": "img/index/rw2.jpg",
+      "sha256": "b87b9295d68cf1bfd141d6ed8f1d8b34c2713a554b01f3b2d386146a70979540",
+      "used_for": [
+        "双手中的精细技艺",
+        "精益求精的手工特写"
+      ]
+    },
+    {
+      "file": "craft_img_index_rw3.jpg",
+      "url": "https://raw.githubusercontent.com/zhouqi-eng/syzzy/d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d/img/index/rw3.jpg",
+      "bytes": 40023,
+      "repo": "zhouqi-eng/syzzy",
+      "sha": "d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d",
+      "original_path": "img/index/rw3.jpg",
+      "sha256": "50575cf50d102706ffa7f4bd08c9130b24372e538732197ecff66f753a34bb53",
+      "used_for": [
+        "传承祖国的严谨匠心"
+      ]
+    },
+    {
+      "file": "craft_index2_fyly_img_zhujian2.jpg",
+      "url": "https://raw.githubusercontent.com/zhouqi-eng/syzzy/d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d/index2/fyly/img/zhujian2.jpg",
+      "bytes": 70995,
+      "repo": "zhouqi-eng/syzzy",
+      "sha": "d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d",
+      "original_path": "index2/fyly/img/zhujian2.jpg",
+      "sha256": "7abd6debe052a4683bfe376905f3b3e94d0be2baef4f58ae007661b58e3fbe49",
+      "used_for": [
+        "古代文字与典籍"
+      ]
+    },
+    {
+      "file": "engineering_detail.png",
+      "url": "https://raw.githubusercontent.com/qq703824846-max/tang-landscape/b6fe1520b1be7b5b3348d970f536926a4f71140f/assets/stone-bench-detail.png",
+      "bytes": 235720,
+      "repo": "qq703824846-max/tang-landscape",
+      "sha": "b6fe1520b1be7b5b3348d970f536926a4f71140f",
+      "original_path": "assets/stone-bench-detail.png",
+      "sha256": "6ed41e7c023fa44b0cc503e10afc86f58e13d89abb5c179e5d395b50b3d20342",
+      "used_for": [
+        "真实工程详图与施工规范"
+      ]
+    },
+    {
+      "file": "guizhou_aerial.mp4",
+      "url": "https://raw.githubusercontent.com/yangdasu/resume/d13bf897adf781f02ccede5ed27cd7b952f670d5/assets/campus-aerial-720p.mp4",
+      "repo": "yangdasu/resume",
+      "original_path": "assets/campus-aerial-720p.mp4",
+      "bytes": 6803115,
+      "sha256": "922d8687489319e961b0acbaa9c2fc086e8e49519edec18c7ba1808ad273b519",
+      "used_for": [
+        "中国校园开场",
+        "中国校园、远方与未来"
+      ]
+    },
+    {
+      "file": "guizhou_campus.mp4",
+      "url": "https://raw.githubusercontent.com/yangdasu/resume/d13bf897adf781f02ccede5ed27cd7b952f670d5/assets/video-campus.mp4",
+      "repo": "yangdasu/resume",
+      "original_path": "assets/video-campus.mp4",
+      "bytes": 16842618,
+      "sha256": "08bc1ccad76746f89bb1c2136fbbff7e96b5691966d8fc71ba24aa914ba0b73f",
+      "used_for": [
+        "工程服务学习与生活",
+        "中国校园与青年成长",
+        "中国校园绿意与共同未来"
+      ]
+    },
+    {
+      "file": "heritage_crafts.mp4",
+      "url": "https://raw.githubusercontent.com/zhouqi-eng/syzzy/d8cbb62bf176580ac97cea15d9d54b41bf9c3e8d/index2/video/1.mp4",
+      "repo": "zhouqi-eng/syzzy",
+      "original_path": "index2/video/1.mp4",
+      "sha256": "4ff0924da2891d97fa30da6eabb37b55f8c3c694515ddecdeccb0766278e89e4",
+      "bytes": 10453059,
+      "used_for": [
+        "节庆、舞龙与打铁花",
+        "匠人的技能与责任",
+        "中国传统技艺与自信",
+        "中国技艺的传承与创新",
+        "文化根脉与中国节庆"
+      ]
+    },
+    {
+      "file": "shanghai_city.mp4",
+      "url": "https://raw.githubusercontent.com/ISCAS2026/web/e230d0e8420a3565a0f13049d7aa44f840e7e529/shanghai.mp4",
+      "bytes": 26675281,
+      "repo": "ISCAS2026/web",
+      "sha": "e230d0e8420a3565a0f13049d7aa44f840e7e529",
+      "original_path": "shanghai.mp4",
+      "sha256": "ac175acb98ac00a36e25366426351d576d829f4a48040645e4fd0ed03d13813f",
+      "used_for": [
+        "中国港口与现代实力",
+        "中国制造与出口连接世界",
+        "中国港口与全球连接",
+        "公共空间与实际成果",
+        "当代中国城市与真实成就",
+        "中国城市中的中外友好交流",
+        "中国技术与国际合作的连接",
+        "学习中的实际操作与思考",
+        "中国城市真实日常与温度"
+      ]
+    },
+    {
+      "file": "shanghai_maglev.mp4",
+      "url": "https://raw.githubusercontent.com/JLDAUSSY/Chine2026/610beae4f236d0571b000063d1f5e5b987febc5a/videos/maglev.mp4",
+      "bytes": 6885459,
+      "repo": "JLDAUSSY/Chine2026",
+      "sha": "610beae4f236d0571b000063d1f5e5b987febc5a",
+      "original_path": "videos/maglev.mp4",
+      "sha256": "2f89c64e1bea39699367f3897e15b711825fd5ab89123008a6bbdc296da5d024",
+      "used_for": [
+        "中国城市轨道交通",
+        "中国交通设施与优质工程实景",
+        "中国城市交通与技术合作"
+      ]
+    },
+    {
+      "file": "szpu_37AAA58D940785BF2671D19CD6F_1B05DAD4_3E3E4.jpg",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/images/37AAA58D940785BF2671D19CD6F_1B05DAD4_3E3E4.jpg",
+      "bytes": 254948,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/images/37AAA58D940785BF2671D19CD6F_1B05DAD4_3E3E4.jpg",
+      "sha256": "7b6e83a51e7db44ba8fa13b727e108cb613b4b9e918145e7d9f0e2b541e8852a",
+      "used_for": [
+        "技艺与审美中的智慧"
+      ]
+    },
+    {
+      "file": "szpu_FD45E1D3459A5E5A3E7238B5337_BD75B40F_4C9F0.jpg",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/images/FD45E1D3459A5E5A3E7238B5337_BD75B40F_4C9F0.jpg",
+      "bytes": 313840,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/images/FD45E1D3459A5E5A3E7238B5337_BD75B40F_4C9F0.jpg",
+      "sha256": "60b59d28aca9c2f2583391c6c15e1f18740fa4e3d4a9a17ca3c852c5666481ba",
+      "used_for": [
+        "学习、倾听与沟通",
+        "中国青年真诚交流"
+      ]
+    },
+    {
+      "file": "szpu_kxyj0828.jpg",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/images/kxyj0828.jpg",
+      "bytes": 896812,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/images/kxyj0828.jpg",
+      "sha256": "e7a32f79d2e6d15bbfbbf2d982843d118ecdda7ac52ffc810a9d07706208b2c7",
+      "used_for": [
+        "中国技术人员与精密工作",
+        "精密工作与职业责任",
+        "技能成为中国形象的窗口"
+      ]
+    },
+    {
+      "file": "szpu_video0.mp4",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/videos/4CF8CAC9F0893DA67BF3A06E9A7_89918CB5_10F0462.mp4",
+      "bytes": 11853785,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/videos/4CF8CAC9F0893DA67BF3A06E9A7_89918CB5_10F0462.mp4",
+      "sha256": "16e687b7bee8e14881fc4662911730bf32d4671a21a911deb2cdbab0317601b2",
+      "used_for": [
+        "中国校园中的文化认同"
+      ]
+    },
+    {
+      "file": "szpu_video1.mp4",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/videos/DF24A75EC06F2A8C08100119724_60C7C211_19DE7B4.mp4",
+      "bytes": 7678259,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/videos/DF24A75EC06F2A8C08100119724_60C7C211_19DE7B4.mp4",
+      "sha256": "4ce914ab22d373325ea4367243c7e5c7fc5f66aeec0fccdb60f076a21a6eca35",
+      "used_for": [
+        "中国职校迎新与青年",
+        "中国职校青年学习与实践交流",
+        "青年专注做事的态度"
+      ]
+    },
+    {
+      "file": "szpu_xysh0828.jpg",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/images/xysh0828.jpg",
+      "bytes": 303585,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/images/xysh0828.jpg",
+      "sha256": "d0dff22fd885263abfa67672b3eb689e3281301de76c1c97115e4e684a4494fa",
+      "used_for": [
+        "在中国校园共同学习与交往",
+        "中国校园的开放与交流",
+        "以尊重连接世界"
+      ]
+    },
+    {
+      "file": "szpu_zsjy0828.jpg",
+      "url": "https://raw.githubusercontent.com/hanyujie2002/szpu/81823500140d865a07026b8385c2a1b757cde5c9/assets/images/zsjy0828.jpg",
+      "bytes": 731225,
+      "repo": "hanyujie2002/szpu",
+      "original_path": "assets/images/zsjy0828.jpg",
+      "sha256": "c7348383e61278f93761335a9ce1f81114e6edf5b153d9d59ff735d4d25b2a26",
+      "used_for": [
+        "新时代中国职校青年"
+      ]
+    },
+    {
+      "file": "wuhan_bridge.jpg",
+      "repo": "alelssjl1-beep/ChinaTravelBlog",
+      "sha": "a2596c93780ad959a35aff42288de3c2f00d4567",
+      "original_path": "Geng_Qingxun_0035_CW1/ChinaTravel_Blog_Website/blog_categories_page/destinations_page/Central_China_page/Wuhan/WH_nature/Wuhan_Yangtze_River_Bridge.jpg",
+      "url": "https://raw.githubusercontent.com/alelssjl1-beep/ChinaTravelBlog/a2596c93780ad959a35aff42288de3c2f00d4567/Geng_Qingxun_0035_CW1/ChinaTravel_Blog_Website/blog_categories_page/destinations_page/Central_China_page/Wuhan/WH_nature/Wuhan_Yangtze_River_Bridge.jpg",
+      "sha256": "2c53b53476296771a5386c701c62e96014b9c9fb6e8836740e3cab6471a2d451",
+      "bytes": 2018469,
+      "used_for": [
+        "武汉长江大桥",
+        "以专业技能为桥梁"
+      ]
+    }
+  ],
+  "notes": [
+    "Domestic Chinese transport and port footage illustrates capability; it is not identified as overseas projects.",
+    "People in source footage are activity participants and are not represented as the entrant.",
+    "Real photographs use gentle camera moves; the engineering drawing is an actual technical illustration.",
+    "Generated architecture/campus alternates, foreign generic stock, phone screen recordings and poor-quality candidates were excluded."
+  ]
+}
